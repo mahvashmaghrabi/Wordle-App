@@ -1,0 +1,19 @@
+.homecss {
+  background-position: center;
+
+  text-align: center;
+
+  margin-top: 20%;
+}
+
+h1 span {
+  color: black;
+}
+
+h2 {
+  margin-top: 20px;
+
+  margin-bottom: 20px;
+
+  color: #019a01;
+}

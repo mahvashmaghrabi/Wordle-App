@@ -1,0 +1,28 @@
+.grid {
+  display: grid;
+}
+.outergrid1 {
+  display: flex;
+  flex-direction: column;
+  width: 450px;
+  height: 550px;
+  border: 1px solid black;
+}
+
+.row1 {
+  display: flex;
+  flex: 33%;
+  flex-direction: row;
+  margin: 5px;
+}
+
+.alphabet1 {
+  display: grid;
+  height: 100%;
+  flex: 33%;
+  border: 1px solid grey;
+  margin: 5px;
+  place-items: center;
+  font-size: 30px;
+  color: white;
+}
